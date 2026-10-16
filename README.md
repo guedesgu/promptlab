@@ -84,7 +84,7 @@ PromptLab is a learning and portfolio project focused on:
 
 **Gustavo Guedes de Macena**
 
-Software Engineering student interested in Python, generative AI, prompt engineering, and practical software development.
+Software Engineering student interested in Python, Quantum, generative AI, prompt engineering, and practical software development.
 
 GitHub: [@guedesgu](https://github.com/guedesgu)
 
