@@ -1,0 +1,13 @@
+# Ambiente virtual
+.venv/
+
+# Chaves e segredos
+.streamlit/secrets.toml
+.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Configurações locais do editor
+.vscode/
